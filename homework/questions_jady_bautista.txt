@@ -1,11 +1,11 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
-
+Mkdir, which makes a directory. Ls, which shows you where you are in terminal. Cd to change directory. The language is zsh.
 2. Do you have pets? What kind?
-
+No, I used to have a hamster, dog, and some fishes though.
 3. If you run across an error, what would your first course of action be?
-
+Google for help.
 4. Funniest thing that happened to you in high school.
-
+An old friend and I were messing around in class and pretending do homework and we were talking about something personal to her life that didn't need to be shared with the others. And we wrote down a list on a google doc that also had the same name as my homework and I accidentally turned that in instead of the actual homework. 2 weeks later I got sent to the principal's office and I wasn't sure what it was for and I almost got expelled.
 5. What is a python script? (Keep it simple)
-
+It's a text file that ends in .py
 
